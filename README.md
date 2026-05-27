@@ -60,7 +60,7 @@ Dotazy spusť z `core/04_queries.sql` v Query Toolu.
 -- 4. CELKOVÁ PRODUKCE ODPADŮ ZA ČR
 ![Výsledek](grafy/vysledek4.png)
 
-![](grafy/query4.png)
 
 -- 5. PRODUKCE KO PODLE TYPU OBCE
 ![Výsledek](grafy/vysledek5.png)
+![](grafy/query5.png)
