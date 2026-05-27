@@ -43,22 +43,24 @@ Dotazy spusť z `core/04_queries.sql` v Query Toolu.
 
 
 -- 1. PODÍL SMĚSNÉHO ODPADU NA CELKOVÉM V JEDNOTLIVÝCH KRAJÍCH
+![Výsledek](grafy/vysledek1.png)
 
 ![](grafy/query1.png)
 
 -- 2. TOP 10 OBCÍ S NEJVĚTŠÍ PRODUKCÍ KO NA OBYVATELE
+![Výsledek](grafy/vysledek2.png)
 
 ![](grafy/query2.png)
 
 -- 3. PRŮMĚRNÁ PRODUKCE KO NA OBYVATELE V KAŽDÉM KRAJI
+![Výsledek](grafy/vysledek3.png)
 
 ![](grafy/query3.png)
 
 -- 4. CELKOVÁ PRODUKCE ODPADŮ ZA ČR
+![Výsledek](grafy/vysledek4.png)
 
-![](grafy/query1.png)
+![](grafy/query4.png)
 
 -- 5. PRODUKCE KO PODLE TYPU OBCE
-![Výsledek](vysledek4.png)
-
-![](grafy/query5.png)
+![Výsledek](grafy/vysledek5.png)
